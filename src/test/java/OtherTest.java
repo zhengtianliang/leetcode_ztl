@@ -12,5 +12,7 @@ public class OtherTest {
     @Test
     public void test1(){
         System.out.println(123);
+        System.out.println((101/100));
+        System.out.println((11/100)%10);
     }
 }
