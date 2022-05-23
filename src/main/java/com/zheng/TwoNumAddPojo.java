@@ -10,7 +10,6 @@ import java.util.*;
  */
 public class TwoNumAddPojo {
 
-    
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // new一个最前的节点，这个节点不往后移动
         ListNode pre = new ListNode(0);
