@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa66b361-56dd-47fd-b596-f3bfa2005383" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zheng/TwoNumAddPojo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zheng/TwoNumAddPojo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/OtherTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/OtherTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/OtherTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/OtherTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +36,9 @@
     </option>
   </component>
   <component name="ProjectId" id="27I5EHqrLDMc528wMcSRXyI0Bd8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -58,7 +55,12 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zheng" />
+    </key>
   </component>
   <component name="RunManager" selected="JUnit.OtherTest.test1">
     <configuration name="MyTwoNumAddPojo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -123,6 +125,13 @@
       <workItem from="1649086501934" duration="1445000" />
       <workItem from="1649170262415" duration="2392000" />
       <workItem from="1649254708426" duration="120000" />
+      <workItem from="1649681729065" duration="1402000" />
+      <workItem from="1649857785254" duration="1131000" />
+      <workItem from="1650375245112" duration="867000" />
+      <workItem from="1650376833720" duration="28000" />
+      <workItem from="1653234872930" duration="338000" />
+      <workItem from="1653267393762" duration="742000" />
+      <workItem from="1653268165703" duration="1284000" />
     </task>
     <servers />
   </component>
@@ -138,10 +147,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="689" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649171469324" />
-    <state x="560" y="107" key="CommitChangelistDialog2" timestamp="1649681886333">
+    <state x="560" y="107" key="CommitChangelistDialog2" timestamp="1653319368139">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649681886333" />
+    <state x="560" y="107" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1653319368139" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1648994737230">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -178,14 +187,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="329" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1649172676793" />
-    <state x="461" y="162" key="SettingsEditor" timestamp="1648994740969">
+    <state x="461" y="162" key="SettingsEditor" timestamp="1650376812609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648994740969" />
-    <state x="439" y="244" key="new project wizard" timestamp="1649254826106">
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1650376812609" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1653319377126">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="439" y="244" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1649254826106" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1653319377126" />
+    <state x="439" y="244" key="new project wizard" timestamp="1649860699652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="439" y="244" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1649860699652" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1649172068469">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -200,12 +213,12 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/TwoNumAddPojo.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/MyTwoNumAddPojo.java</url>
           <line>37</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/TwoNumAddPojo.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/com/zheng/MyTwoNumAddPojo.java</url>
           <line>27</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
